@@ -146,6 +146,11 @@
       "quality": 4
     },
     {
+      "host": "208.169.72.50:443",
+      "country": "TC",
+      "quality": 4
+    },
+    {
       "host": "52.140.7.131:443",
       "country": "IN",
       "quality": 4
