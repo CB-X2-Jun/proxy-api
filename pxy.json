@@ -191,11 +191,6 @@
       "quality": 4
     },
     {
-      "host": "79.188.239.41:8443",
-      "country": "PL",
-      "quality": 4
-    },
-    {
       "host": "102.209.56.21:443",
       "country": "KE",
       "quality": 4
@@ -268,11 +263,6 @@
     {
       "host": "210.19.96.163:443",
       "country": "MY",
-      "quality": 4
-    },
-    {
-      "host": "79.188.239.46:8443",
-      "country": "PL",
       "quality": 4
     },
     {
