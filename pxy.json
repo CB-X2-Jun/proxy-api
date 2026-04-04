@@ -126,11 +126,6 @@
       "quality": 4
     },
     {
-      "host": "108.60.228.210:443",
-      "country": "BS",
-      "quality": 4
-    },
-    {
       "host": "129.97.50.72:443",
       "country": "CA",
       "quality": 4
@@ -338,6 +333,11 @@
     {
       "host": "199.127.197.211:443",
       "country": "GD",
+      "quality": 4
+    },
+    {
+      "host": "208.169.72.58:443",
+      "country": "TC",
       "quality": 4
     },
     {
