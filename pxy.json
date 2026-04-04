@@ -1,6 +1,11 @@
 {
   "proxy_list": [
     {
+      "host": "160.242.47.197:444",
+      "country": "NA",
+      "quality": 4
+    },
+    {
       "host": "158.173.154.47:9002",
       "country": "DE",
       "quality": 4
