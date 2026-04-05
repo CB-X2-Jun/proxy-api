@@ -306,6 +306,11 @@
       "quality": 4
     },
     {
+      "host": "194.249.231.22:443",
+      "country": "SI",
+      "quality": 4
+    },
+    {
       "host": "212.243.240.120:443",
       "country": "CH",
       "quality": 4
