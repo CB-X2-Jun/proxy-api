@@ -191,11 +191,6 @@
       "quality": 4
     },
     {
-      "host": "102.209.56.21:443",
-      "country": "KE",
-      "quality": 4
-    },
-    {
       "host": "193.77.81.97:443",
       "country": "SI",
       "quality": 4
@@ -278,11 +273,6 @@
     {
       "host": "148.233.136.213:443",
       "country": "MX",
-      "quality": 4
-    },
-    {
-      "host": "66.70.143.16:443",
-      "country": "BR",
       "quality": 4
     },
     {
