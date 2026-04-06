@@ -191,11 +191,6 @@
       "quality": 4
     },
     {
-      "host": "102.209.56.21:443",
-      "country": "KE",
-      "quality": 4
-    },
-    {
       "host": "193.77.81.97:443",
       "country": "SI",
       "quality": 4
@@ -338,6 +333,11 @@
     {
       "host": "103.62.50.130:443",
       "country": "AU",
+      "quality": 4
+    },
+    {
+      "host": "159.223.71.162:443",
+      "country": "SG",
       "quality": 4
     },
     {
