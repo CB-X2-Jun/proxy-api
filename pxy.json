@@ -501,6 +501,11 @@
       "quality": 4
     },
     {
+      "host": "13.61.155.35:16379",
+      "country": "DE",
+      "quality": 4
+    },
+    {
       "host": "31.171.155.210:9443",
       "country": "AL",
       "quality": 4
