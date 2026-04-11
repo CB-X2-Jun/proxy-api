@@ -81,13 +81,13 @@
       "quality": 4
     },
     {
-      "host": "152.71.251.13:443",
-      "country": "GB",
+      "host": "79.133.217.233:443",
+      "country": "PL",
       "quality": 4
     },
     {
-      "host": "181.126.49.38:443",
-      "country": "PY",
+      "host": "152.71.251.13:443",
+      "country": "GB",
       "quality": 4
     },
     {
@@ -438,6 +438,11 @@
     {
       "host": "190.113.112.147:4443",
       "country": "CR",
+      "quality": 4
+    },
+    {
+      "host": "103.210.22.17:3129",
+      "country": "CN",
       "quality": 4
     },
     {
