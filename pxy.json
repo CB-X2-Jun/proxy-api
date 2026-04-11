@@ -56,11 +56,6 @@
       "quality": 4
     },
     {
-      "host": "20.78.213.56:443",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "91.227.97.113:443",
       "country": "CZ",
       "quality": 4
@@ -463,6 +458,16 @@
     {
       "host": "103.164.114.91:443",
       "country": "ID",
+      "quality": 4
+    },
+    {
+      "host": "203.189.96.232:443",
+      "country": "JP",
+      "quality": 4
+    },
+    {
+      "host": "170.80.111.178:9443",
+      "country": "GT",
       "quality": 4
     },
     {
