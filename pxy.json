@@ -471,11 +471,6 @@
       "quality": 4
     },
     {
-      "host": "170.80.111.178:9443",
-      "country": "GT",
-      "quality": 4
-    },
-    {
       "host": "190.85.38.67:443",
       "country": "CO",
       "quality": 4
@@ -493,6 +488,11 @@
     {
       "host": "138.197.69.103:443",
       "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "13.61.155.35:16379",
+      "country": "DE",
       "quality": 4
     },
     {
