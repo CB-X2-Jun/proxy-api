@@ -386,6 +386,11 @@
       "quality": 4
     },
     {
+      "host": "38.165.236.130:443",
+      "country": "SV",
+      "quality": 4
+    },
+    {
       "host": "170.80.111.178:443",
       "country": "GT",
       "quality": 4
@@ -443,6 +448,11 @@
     {
       "host": "190.113.112.147:4443",
       "country": "CR",
+      "quality": 4
+    },
+    {
+      "host": "103.210.22.17:3129",
+      "country": "CN",
       "quality": 4
     },
     {
