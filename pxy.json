@@ -396,6 +396,11 @@
       "quality": 4
     },
     {
+      "host": "81.180.222.73:443",
+      "country": "RO",
+      "quality": 4
+    },
+    {
       "host": "213.163.97.16:443",
       "country": "XK",
       "quality": 4
@@ -493,11 +498,6 @@
     {
       "host": "138.197.69.103:443",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "13.61.155.35:16379",
-      "country": "DE",
       "quality": 4
     },
     {
