@@ -141,6 +141,11 @@
       "quality": 4
     },
     {
+      "host": "208.169.72.50:443",
+      "country": "TC",
+      "quality": 4
+    },
+    {
       "host": "52.140.7.131:443",
       "country": "IN",
       "quality": 4
@@ -441,13 +446,13 @@
       "quality": 4
     },
     {
-      "host": "103.210.22.17:3129",
-      "country": "CN",
+      "host": "176.102.64.4:443",
+      "country": "CZ",
       "quality": 4
     },
     {
-      "host": "176.102.64.4:443",
-      "country": "CZ",
+      "host": "196.21.61.67:443",
+      "country": "ZA",
       "quality": 4
     },
     {
