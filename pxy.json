@@ -31,6 +31,11 @@
       "quality": 4
     },
     {
+      "host": "82.196.220.217:443",
+      "country": "NO",
+      "quality": 4
+    },
+    {
       "host": "84.17.57.113:443",
       "country": "HK",
       "quality": 4
@@ -43,11 +48,6 @@
     {
       "host": "210.48.154.99:443",
       "country": "MY",
-      "quality": 4
-    },
-    {
-      "host": "20.78.213.56:443",
-      "country": "JP",
       "quality": 4
     },
     {
@@ -393,6 +393,11 @@
     {
       "host": "192.177.75.187:443",
       "country": "IN",
+      "quality": 4
+    },
+    {
+      "host": "195.123.211.248:443",
+      "country": "LV",
       "quality": 4
     },
     {
