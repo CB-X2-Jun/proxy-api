@@ -96,6 +96,11 @@
       "quality": 4
     },
     {
+      "host": "88.135.143.159:443",
+      "country": "LV",
+      "quality": 4
+    },
+    {
       "host": "31.31.78.117:443",
       "country": "CZ",
       "quality": 4
@@ -208,11 +213,6 @@
     {
       "host": "198.71.61.207:443",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "134.0.63.185:443",
-      "country": "AL",
       "quality": 4
     },
     {
