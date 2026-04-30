@@ -121,11 +121,6 @@
       "quality": 4
     },
     {
-      "host": "108.60.228.210:443",
-      "country": "BS",
-      "quality": 4
-    },
-    {
       "host": "129.97.50.72:443",
       "country": "CA",
       "quality": 4
@@ -331,11 +326,6 @@
       "quality": 4
     },
     {
-      "host": "208.169.72.58:443",
-      "country": "TC",
-      "quality": 4
-    },
-    {
       "host": "46.243.119.92:443",
       "country": "RO",
       "quality": 4
@@ -463,11 +453,6 @@
     {
       "host": "190.85.38.67:443",
       "country": "CO",
-      "quality": 4
-    },
-    {
-      "host": "14.29.168.215:10443",
-      "country": "CN",
       "quality": 4
     },
     {
