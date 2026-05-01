@@ -361,6 +361,11 @@
       "quality": 4
     },
     {
+      "host": "142.171.195.26:443",
+      "country": "US",
+      "quality": 4
+    },
+    {
       "host": "190.112.224.179:443",
       "country": "CW",
       "quality": 4
@@ -426,6 +431,11 @@
       "quality": 4
     },
     {
+      "host": "103.210.22.17:3129",
+      "country": "CN",
+      "quality": 4
+    },
+    {
       "host": "176.102.64.4:443",
       "country": "CZ",
       "quality": 4
@@ -483,6 +493,11 @@
     {
       "host": "152.230.28.131:8081",
       "country": "CL",
+      "quality": 4
+    },
+    {
+      "host": "2.228.224.4:443",
+      "country": "IT",
       "quality": 4
     },
     {
