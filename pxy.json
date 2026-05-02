@@ -221,6 +221,11 @@
       "quality": 4
     },
     {
+      "host": "134.0.63.185:443",
+      "country": "AL",
+      "quality": 4
+    },
+    {
       "host": "103.3.63.59:443",
       "country": "SG",
       "quality": 4
