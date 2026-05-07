@@ -41,11 +41,6 @@
       "quality": 4
     },
     {
-      "host": "210.48.154.99:443",
-      "country": "MY",
-      "quality": 4
-    },
-    {
       "host": "20.78.213.56:443",
       "country": "JP",
       "quality": 4
@@ -141,11 +136,6 @@
       "quality": 4
     },
     {
-      "host": "190.113.112.147:443",
-      "country": "CR",
-      "quality": 4
-    },
-    {
       "host": "46.101.22.14:443",
       "country": "GB",
       "quality": 4
@@ -163,6 +153,11 @@
     {
       "host": "84.72.72.153:443",
       "country": "CH",
+      "quality": 4
+    },
+    {
+      "host": "79.188.239.41:8443",
+      "country": "PL",
       "quality": 4
     },
     {
@@ -398,11 +393,6 @@
     {
       "host": "194.195.87.167:8080",
       "country": "FR",
-      "quality": 4
-    },
-    {
-      "host": "190.113.112.147:4443",
-      "country": "CR",
       "quality": 4
     },
     {
