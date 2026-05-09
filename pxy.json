@@ -241,6 +241,11 @@
       "quality": 4
     },
     {
+      "host": "79.188.239.46:8443",
+      "country": "PL",
+      "quality": 4
+    },
+    {
       "host": "148.233.136.213:443",
       "country": "MX",
       "quality": 4
