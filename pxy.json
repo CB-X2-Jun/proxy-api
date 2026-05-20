@@ -301,6 +301,11 @@
       "quality": 4
     },
     {
+      "host": "208.169.72.58:443",
+      "country": "TC",
+      "quality": 4
+    },
+    {
       "host": "46.243.119.92:443",
       "country": "RO",
       "quality": 4
@@ -308,6 +313,11 @@
     {
       "host": "141.148.230.225:443",
       "country": "NL",
+      "quality": 4
+    },
+    {
+      "host": "66.249.156.130:443",
+      "country": "JM",
       "quality": 4
     },
     {
