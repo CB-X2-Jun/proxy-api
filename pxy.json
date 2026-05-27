@@ -441,6 +441,11 @@
       "quality": 4
     },
     {
+      "host": "152.230.28.131:8081",
+      "country": "CL",
+      "quality": 4
+    },
+    {
       "host": "129.151.121.143:443",
       "country": "CL",
       "quality": 4
