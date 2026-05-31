@@ -66,11 +66,6 @@
       "quality": 4
     },
     {
-      "host": "79.133.217.233:443",
-      "country": "PL",
-      "quality": 4
-    },
-    {
       "host": "152.71.251.13:443",
       "country": "GB",
       "quality": 4
@@ -288,11 +283,6 @@
     {
       "host": "103.62.50.130:443",
       "country": "AU",
-      "quality": 4
-    },
-    {
-      "host": "199.127.197.211:443",
-      "country": "GD",
       "quality": 4
     },
     {
