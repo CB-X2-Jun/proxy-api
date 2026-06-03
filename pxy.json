@@ -156,6 +156,11 @@
       "quality": 4
     },
     {
+      "host": "102.209.56.21:443",
+      "country": "KE",
+      "quality": 4
+    },
+    {
       "host": "193.77.81.97:443",
       "country": "SI",
       "quality": 4
@@ -353,11 +358,6 @@
     {
       "host": "195.123.211.248:443",
       "country": "LV",
-      "quality": 4
-    },
-    {
-      "host": "101.255.106.178:443",
-      "country": "ID",
       "quality": 4
     },
     {
