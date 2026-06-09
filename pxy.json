@@ -201,6 +201,11 @@
       "quality": 4
     },
     {
+      "host": "103.3.63.59:443",
+      "country": "SG",
+      "quality": 4
+    },
+    {
       "host": "159.203.22.247:443",
       "country": "CA",
       "quality": 4
@@ -296,6 +301,11 @@
       "quality": 4
     },
     {
+      "host": "208.169.72.58:443",
+      "country": "TC",
+      "quality": 4
+    },
+    {
       "host": "46.243.119.92:443",
       "country": "RO",
       "quality": 4
@@ -368,6 +378,11 @@
     {
       "host": "165.231.253.210:443",
       "country": "IN",
+      "quality": 4
+    },
+    {
+      "host": "194.195.87.167:8080",
+      "country": "FR",
       "quality": 4
     },
     {
