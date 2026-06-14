@@ -646,6 +646,11 @@
       "quality": 4
     },
     {
+      "host": "132.181.109.108:443",
+      "country": "NZ",
+      "quality": 4
+    },
+    {
       "host": "201.217.148.180:443",
       "country": "UY",
       "quality": 4
