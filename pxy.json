@@ -386,6 +386,11 @@
       "quality": 4
     },
     {
+      "host": "103.210.22.17:3129",
+      "country": "CN",
+      "quality": 4
+    },
+    {
       "host": "176.102.64.4:443",
       "country": "CZ",
       "quality": 4
@@ -643,11 +648,6 @@
     {
       "host": "201.247.108.221:443",
       "country": "SV",
-      "quality": 4
-    },
-    {
-      "host": "132.181.109.108:443",
-      "country": "NZ",
       "quality": 4
     },
     {
