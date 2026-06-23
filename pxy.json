@@ -346,11 +346,6 @@
       "quality": 4
     },
     {
-      "host": "213.96.140.33:443",
-      "country": "ES",
-      "quality": 4
-    },
-    {
       "host": "192.177.75.187:443",
       "country": "IN",
       "quality": 4
@@ -528,11 +523,6 @@
     {
       "host": "64.119.193.154:443",
       "country": "BB",
-      "quality": 4
-    },
-    {
-      "host": "173.249.37.45:5006",
-      "country": "FR",
       "quality": 4
     },
     {
