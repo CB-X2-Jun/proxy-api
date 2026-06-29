@@ -401,8 +401,8 @@
       "quality": 4
     },
     {
-      "host": "203.189.96.232:443",
-      "country": "JP",
+      "host": "170.80.111.178:9443",
+      "country": "GT",
       "quality": 4
     },
     {
@@ -591,11 +591,6 @@
       "quality": 4
     },
     {
-      "host": "77.83.63.85:443",
-      "country": "OM",
-      "quality": 4
-    },
-    {
       "host": "164.160.240.37:443",
       "country": "GH",
       "quality": 4
@@ -608,11 +603,6 @@
     {
       "host": "185.164.35.16:443",
       "country": "BA",
-      "quality": 4
-    },
-    {
-      "host": "77.83.63.86:443",
-      "country": "OM",
       "quality": 4
     },
     {
