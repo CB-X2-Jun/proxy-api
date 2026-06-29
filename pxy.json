@@ -116,11 +116,6 @@
       "quality": 4
     },
     {
-      "host": "91.135.75.44:443",
-      "country": "CH",
-      "quality": 4
-    },
-    {
       "host": "93.115.26.111:443",
       "country": "LT",
       "quality": 4
@@ -398,6 +393,11 @@
     {
       "host": "193.137.38.135:443",
       "country": "PT",
+      "quality": 4
+    },
+    {
+      "host": "203.189.96.232:443",
+      "country": "JP",
       "quality": 4
     },
     {
