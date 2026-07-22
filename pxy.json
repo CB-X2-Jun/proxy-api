@@ -326,6 +326,11 @@
       "quality": 4
     },
     {
+      "host": "195.123.211.248:443",
+      "country": "LV",
+      "quality": 4
+    },
+    {
       "host": "185.96.121.243:9443",
       "country": "PL",
       "quality": 4
@@ -688,6 +693,11 @@
     {
       "host": "200.75.11.94:443",
       "country": "CL",
+      "quality": 4
+    },
+    {
+      "host": "91.221.229.86:443",
+      "country": "AM",
       "quality": 4
     },
     {
