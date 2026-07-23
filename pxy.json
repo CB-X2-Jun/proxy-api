@@ -481,6 +481,11 @@
       "quality": 4
     },
     {
+      "host": "193.251.72.202:8090",
+      "country": "FR",
+      "quality": 4
+    },
+    {
       "host": "150.230.51.152:443",
       "country": "SA",
       "quality": 4
