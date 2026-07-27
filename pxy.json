@@ -466,6 +466,11 @@
       "quality": 4
     },
     {
+      "host": "47.81.15.95:8800",
+      "country": "TH",
+      "quality": 4
+    },
+    {
       "host": "95.153.32.2:9443",
       "country": "EE",
       "quality": 4
@@ -723,6 +728,11 @@
     {
       "host": "178.175.134.186:443",
       "country": "MD",
+      "quality": 4
+    },
+    {
+      "host": "125.60.22.166:443",
+      "country": "KR",
       "quality": 4
     },
     {
