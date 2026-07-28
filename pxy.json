@@ -361,11 +361,6 @@
       "quality": 4
     },
     {
-      "host": "196.21.61.67:443",
-      "country": "ZA",
-      "quality": 4
-    },
-    {
       "host": "193.137.38.135:443",
       "country": "PT",
       "quality": 4
@@ -728,11 +723,6 @@
     {
       "host": "178.175.134.186:443",
       "country": "MD",
-      "quality": 4
-    },
-    {
-      "host": "125.60.22.166:443",
-      "country": "KR",
       "quality": 4
     },
     {
