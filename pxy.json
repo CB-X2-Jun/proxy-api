@@ -501,11 +501,6 @@
       "quality": 4
     },
     {
-      "host": "173.249.37.45:5006",
-      "country": "FR",
-      "quality": 4
-    },
-    {
       "host": "69.160.109.210:4444",
       "country": "JM",
       "quality": 4
@@ -708,6 +703,11 @@
     {
       "host": "91.221.229.86:443",
       "country": "AM",
+      "quality": 4
+    },
+    {
+      "host": "110.38.225.213:443",
+      "country": "PK",
       "quality": 4
     },
     {
