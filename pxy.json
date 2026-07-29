@@ -566,6 +566,11 @@
       "quality": 4
     },
     {
+      "host": "185.164.35.16:443",
+      "country": "BA",
+      "quality": 4
+    },
+    {
       "host": "185.15.75.140:443",
       "country": "DK",
       "quality": 4
