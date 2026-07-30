@@ -701,6 +701,11 @@
       "quality": 4
     },
     {
+      "host": "91.221.229.86:443",
+      "country": "AM",
+      "quality": 4
+    },
+    {
       "host": "110.38.225.213:443",
       "country": "PK",
       "quality": 4
@@ -723,11 +728,6 @@
     {
       "host": "178.175.134.186:443",
       "country": "MD",
-      "quality": 4
-    },
-    {
-      "host": "125.60.22.166:443",
-      "country": "KR",
       "quality": 4
     },
     {
