@@ -1,6 +1,11 @@
 {
   "proxy_list": [
     {
+      "host": "160.242.47.197:444",
+      "country": "NA",
+      "quality": 4
+    },
+    {
       "host": "158.173.154.47:9002",
       "country": "DE",
       "quality": 4
@@ -13,6 +18,11 @@
     {
       "host": "144.22.145.252:80",
       "country": "BR",
+      "quality": 4
+    },
+    {
+      "host": "160.242.47.197:443",
+      "country": "NA",
       "quality": 4
     },
     {
@@ -478,11 +488,6 @@
     {
       "host": "64.119.193.154:443",
       "country": "BB",
-      "quality": 4
-    },
-    {
-      "host": "173.249.37.45:5006",
-      "country": "FR",
       "quality": 4
     },
     {
