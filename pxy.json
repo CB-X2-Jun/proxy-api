@@ -341,6 +341,11 @@
       "quality": 4
     },
     {
+      "host": "176.102.64.4:443",
+      "country": "CZ",
+      "quality": 4
+    },
+    {
       "host": "196.21.61.67:443",
       "country": "ZA",
       "quality": 4
@@ -613,6 +618,11 @@
     {
       "host": "202.61.105.82:443",
       "country": "ID",
+      "quality": 4
+    },
+    {
+      "host": "190.6.65.226:443",
+      "country": "CU",
       "quality": 4
     },
     {
