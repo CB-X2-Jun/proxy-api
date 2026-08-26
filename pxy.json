@@ -456,6 +456,11 @@
       "quality": 4
     },
     {
+      "host": "173.249.37.45:5006",
+      "country": "FR",
+      "quality": 4
+    },
+    {
       "host": "38.165.233.178:443",
       "country": "PY",
       "quality": 4
