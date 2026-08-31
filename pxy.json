@@ -181,6 +181,11 @@
       "quality": 4
     },
     {
+      "host": "41.205.129.179:443",
+      "country": "NA",
+      "quality": 4
+    },
+    {
       "host": "210.19.96.163:443",
       "country": "MY",
       "quality": 4
@@ -843,11 +848,6 @@
     {
       "host": "172.64.69.89:443",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "177.234.248.186:443",
-      "country": "EC",
       "quality": 4
     },
     {
