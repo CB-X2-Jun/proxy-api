@@ -771,11 +771,6 @@
       "quality": 4
     },
     {
-      "host": "212.227.236.57:32768",
-      "country": "US",
-      "quality": 4
-    },
-    {
       "host": "165.231.253.242:9443",
       "country": "IN",
       "quality": 4
@@ -821,11 +816,6 @@
       "quality": 4
     },
     {
-      "host": "5.59.248.134:8443",
-      "country": "IT",
-      "quality": 4
-    },
-    {
       "host": "129.205.246.123:443",
       "country": "BW",
       "quality": 4
@@ -861,11 +851,6 @@
       "quality": 4
     },
     {
-      "host": "162.251.67.243:443",
-      "country": "US",
-      "quality": 4
-    },
-    {
       "host": "74.208.250.147:8443",
       "country": "US",
       "quality": 4
@@ -883,11 +868,6 @@
     {
       "host": "37.139.2.121:443",
       "country": "NL",
-      "quality": 4
-    },
-    {
-      "host": "18.175.113.211:443",
-      "country": "GB",
       "quality": 4
     }
   ]
