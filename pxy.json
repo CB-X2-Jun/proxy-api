@@ -81,6 +81,11 @@
       "quality": 4
     },
     {
+      "host": "79.188.239.41:8443",
+      "country": "PL",
+      "quality": 4
+    },
+    {
       "host": "193.77.81.97:443",
       "country": "SI",
       "quality": 4
@@ -123,6 +128,11 @@
     {
       "host": "210.19.96.163:443",
       "country": "MY",
+      "quality": 4
+    },
+    {
+      "host": "79.188.239.46:8443",
+      "country": "PL",
       "quality": 4
     },
     {
@@ -393,11 +403,6 @@
     {
       "host": "168.167.220.28:443",
       "country": "BW",
-      "quality": 4
-    },
-    {
-      "host": "190.6.65.226:443",
-      "country": "CU",
       "quality": 4
     },
     {
