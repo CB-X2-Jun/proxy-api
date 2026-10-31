@@ -491,11 +491,6 @@
       "quality": 4
     },
     {
-      "host": "46.29.166.134:1446",
-      "country": "RU",
-      "quality": 4
-    },
-    {
       "host": "185.221.132.226:443",
       "country": "LU",
       "quality": 4
@@ -712,6 +707,11 @@
     },
     {
       "host": "74.208.250.147:8443",
+      "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "162.251.237.199:443",
       "country": "US",
       "quality": 4
     },
