@@ -551,6 +551,11 @@
       "quality": 4
     },
     {
+      "host": "193.87.1.71:443",
+      "country": "SK",
+      "quality": 4
+    },
+    {
       "host": "221.126.247.53:22",
       "country": "HK",
       "quality": 4
@@ -701,7 +706,17 @@
       "quality": 4
     },
     {
+      "host": "162.251.67.243:443",
+      "country": "US",
+      "quality": 4
+    },
+    {
       "host": "74.208.250.147:8443",
+      "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "162.251.237.199:443",
       "country": "US",
       "quality": 4
     },
