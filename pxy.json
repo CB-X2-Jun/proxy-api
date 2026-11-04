@@ -676,11 +676,6 @@
       "quality": 4
     },
     {
-      "host": "81.25.50.12:8466",
-      "country": "RU",
-      "quality": 4
-    },
-    {
       "host": "170.210.44.231:443",
       "country": "AR",
       "quality": 4
@@ -723,11 +718,6 @@
     {
       "host": "37.139.2.121:443",
       "country": "NL",
-      "quality": 4
-    },
-    {
-      "host": "18.175.113.211:443",
-      "country": "GB",
       "quality": 4
     }
   ]
