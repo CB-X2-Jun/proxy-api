@@ -676,6 +676,11 @@
       "quality": 4
     },
     {
+      "host": "81.25.50.12:8466",
+      "country": "RU",
+      "quality": 4
+    },
+    {
       "host": "170.210.44.231:443",
       "country": "AR",
       "quality": 4
