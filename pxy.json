@@ -401,11 +401,6 @@
       "quality": 4
     },
     {
-      "host": "190.6.65.226:443",
-      "country": "CU",
-      "quality": 4
-    },
-    {
       "host": "141.105.83.68:443",
       "country": "LB",
       "quality": 4
@@ -683,11 +678,6 @@
     {
       "host": "195.80.165.154:443",
       "country": "SK",
-      "quality": 4
-    },
-    {
-      "host": "196.43.240.49:9443",
-      "country": "CG",
       "quality": 4
     },
     {
