@@ -276,6 +276,11 @@
       "quality": 4
     },
     {
+      "host": "4.198.140.211:443",
+      "country": "AU",
+      "quality": 4
+    },
+    {
       "host": "77.221.136.60:8443",
       "country": "SE",
       "quality": 4
@@ -708,6 +713,11 @@
     {
       "host": "37.139.2.121:443",
       "country": "NL",
+      "quality": 4
+    },
+    {
+      "host": "18.175.113.211:443",
+      "country": "GB",
       "quality": 4
     }
   ]
