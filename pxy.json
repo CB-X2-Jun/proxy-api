@@ -666,6 +666,11 @@
       "quality": 4
     },
     {
+      "host": "196.43.240.49:9443",
+      "country": "CG",
+      "quality": 4
+    },
+    {
       "host": "217.237.171.227:443",
       "country": "DE",
       "quality": 4
