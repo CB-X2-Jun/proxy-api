@@ -471,11 +471,6 @@
       "quality": 4
     },
     {
-      "host": "182.156.203.41:443",
-      "country": "IN",
-      "quality": 4
-    },
-    {
       "host": "188.42.46.2:443",
       "country": "LU",
       "quality": 4
@@ -503,11 +498,6 @@
     {
       "host": "190.211.102.2:443",
       "country": "CR",
-      "quality": 4
-    },
-    {
-      "host": "82.65.162.76:443",
-      "country": "FR",
       "quality": 4
     },
     {
@@ -568,6 +558,11 @@
     {
       "host": "120.232.204.58:39010",
       "country": "AU",
+      "quality": 4
+    },
+    {
+      "host": "120.232.204.58:40583",
+      "country": "JP",
       "quality": 4
     },
     {
