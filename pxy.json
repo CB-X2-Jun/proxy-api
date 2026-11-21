@@ -76,11 +76,6 @@
       "quality": 4
     },
     {
-      "host": "193.226.205.54:443",
-      "country": "HU",
-      "quality": 4
-    },
-    {
       "host": "88.197.53.165:443",
       "country": "GR",
       "quality": 4
@@ -166,11 +161,6 @@
       "quality": 4
     },
     {
-      "host": "170.80.111.178:443",
-      "country": "GT",
-      "quality": 4
-    },
-    {
       "host": "81.180.222.73:443",
       "country": "RO",
       "quality": 4
@@ -201,18 +191,8 @@
       "quality": 4
     },
     {
-      "host": "170.80.111.178:9443",
-      "country": "GT",
-      "quality": 4
-    },
-    {
       "host": "14.29.168.215:10443",
       "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "138.197.69.103:443",
-      "country": "US",
       "quality": 4
     },
     {
@@ -306,11 +286,6 @@
       "quality": 4
     },
     {
-      "host": "173.249.37.45:5006",
-      "country": "FR",
-      "quality": 4
-    },
-    {
       "host": "38.165.233.178:443",
       "country": "PY",
       "quality": 4
@@ -328,11 +303,6 @@
     {
       "host": "120.138.21.80:443",
       "country": "NZ",
-      "quality": 4
-    },
-    {
-      "host": "79.72.36.217:443",
-      "country": "OM",
       "quality": 4
     },
     {
@@ -356,11 +326,6 @@
       "quality": 4
     },
     {
-      "host": "164.160.240.37:443",
-      "country": "GH",
-      "quality": 4
-    },
-    {
       "host": "41.191.232.21:443",
       "country": "ZW",
       "quality": 4
@@ -378,11 +343,6 @@
     {
       "host": "168.167.220.28:443",
       "country": "BW",
-      "quality": 4
-    },
-    {
-      "host": "190.6.65.226:443",
-      "country": "CU",
       "quality": 4
     },
     {
@@ -488,6 +448,11 @@
     {
       "host": "208.66.248.70:443",
       "country": "CA",
+      "quality": 4
+    },
+    {
+      "host": "80.24.34.107:8090",
+      "country": "ES",
       "quality": 4
     },
     {
@@ -648,11 +613,6 @@
     {
       "host": "196.43.240.49:9443",
       "country": "CG",
-      "quality": 4
-    },
-    {
-      "host": "217.237.171.227:443",
-      "country": "DE",
       "quality": 4
     },
     {
