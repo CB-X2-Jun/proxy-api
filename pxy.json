@@ -186,6 +186,11 @@
       "quality": 4
     },
     {
+      "host": "176.102.64.4:443",
+      "country": "CZ",
+      "quality": 4
+    },
+    {
       "host": "196.21.61.67:443",
       "country": "ZA",
       "quality": 4
@@ -638,11 +643,6 @@
     {
       "host": "217.237.171.227:443",
       "country": "DE",
-      "quality": 4
-    },
-    {
-      "host": "162.251.67.243:443",
-      "country": "US",
       "quality": 4
     },
     {
